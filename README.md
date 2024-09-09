@@ -10,7 +10,7 @@ Room Finder is a full-stack web application that helps homeowners list rooms for
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/room-finder.git
+git clone 
 Install dependencies:
 bash
 Copy code
